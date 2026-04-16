@@ -134,18 +134,32 @@ Here’s your rewritten version tailored for a React frontend project:
 
 ---
 
-* Modular architecture for scalability
-* Type-safe development with TypeScript
-* Centralized state management using Redux Toolkit
-* Environment-based configuration (Vite `.env`)
-* Clean and maintainable folder structure
-* Client-side routing with React Router
-* Reusable UI components with Ant Design
-* Form handling with React Hook Form
-
+- Modular architecture for scalability
+- Type-safe development with TypeScript
+- Centralized state management using Redux Toolkit
+- Environment-based configuration (Vite `.env`)
+- Clean and maintainable folder structure
+- Client-side routing with React Router
+- Reusable UI components with Ant Design
+- Form handling with React Hook Form
 
 ---
 
+## 🖼️ Screenshots
+
+### Home Page
+
+![Home Page](https://your-image-url.com/home.png)
+
+### Dashboard
+
+![Dashboard](https://your-image-url.com/dashboard.png)
+
+### Mobile View
+
+![Mobile View](https://your-image-url.com/mobile.png)
+
+---
 
 ## 🤝 Contributing
 
