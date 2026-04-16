@@ -2,10 +2,6 @@
 
 ---
 
-Here’s a clean rewrite tailored for a React project:
-
----
-
 A scalable and production-ready frontend starter template built with React, TypeScript, and modern tooling. This boilerplate is designed to help developers quickly kickstart building responsive and maintainable user interfaces with a well-structured and modular architecture.
 
 ---
