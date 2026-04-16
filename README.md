@@ -142,7 +142,6 @@ Here’s your rewritten version tailored for a React frontend project:
 - Client-side routing with React Router
 - Reusable UI components with Ant Design
 - Form handling with React Hook Form
-
 ---
 
 ## 🖼️ Screenshots
