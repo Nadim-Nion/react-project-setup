@@ -3,12 +3,17 @@ import App from "../App";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 
-
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
-    children: [],
+    children: [
+      {
+        path: "/",
+        // index: true,
+        element: <h2>React Project Setup</h2>,
+      },
+    ],
   },
   {
     path: "/login",
